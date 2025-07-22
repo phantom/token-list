@@ -11629,6 +11629,21 @@
     },
     {
       "chainId": 101,
+      "address": "3Yk8y3PuBaFUzP12fTTfoxq8F7oRiPPe7ULyQkhLgaEy",
+      "symbol": "BLY",
+      "name": "Bly",
+      "decimals": 6,
+      "logoURI": "https://bafkreigtzqoj42h3lxnebjilpnekvyhry7gb7qogmwbcfbcevmzlvdlxmm.ipfs.w3s.link/?filename=bly.png",
+      "tags": ["meme"],
+      "extensions": {
+        "website": "https://bl-y.art",
+        "twitter": "https://x.com/BDDonut",
+        "description": "An art movement cryptocurrency designed to flip the art market",
+        "explorer": "https://solscan.io/token/3Yk8y3PuBaFUzP12fTTfoxq8F7oRiPPe7ULyQkhLgaEy"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "cjZmbt8sJgaoyWYUttomAu5LJYU44ZrcKTbzTSEPDVw",
       "symbol": "LIKE-USDC",
       "name": "Raydium LP Token V4 (LIKE-USDC)",
