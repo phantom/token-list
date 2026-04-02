@@ -17,7 +17,7 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - uses: reitermarkus/automerge@v1.5.2
+      - uses: reitermarkus/automerge@72bc1353d0a084c84034be23424b124d900d1658 # v1.5.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           merge-method: rebase
